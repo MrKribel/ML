@@ -9,7 +9,7 @@ matplotlib = "*"
 statsmodels = "*"
 Keras = "*"
 scikit-learn = "*"
-numpy = "==1.19.5"
+numpy = "==1.22.0"
 
 [dev-packages]
 
